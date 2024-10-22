@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oneartmo.github.io/oneartmo.txt.gz
+Sitemap: https://oneartmo.github.io/app/oneartmo.txt.gz
+Sitemap: https://oneartmo.github.io/assets/oneartmo.txt.gz
+Sitemap: https://oneartmo.github.io/css/oneartmo.txt.gz
+Sitemap: https://oneartmo.github.io/includes/oneartmo.txt.gz
+Sitemap: https://oneartmo.github.io/item/oneartmo.txt.gz
+Sitemap: https://oneartmo.github.io/src/oneartmo.txt.gz
